@@ -63,9 +63,7 @@
 </a>
 <br><br>
 
-<a href="https://github.com/pomarmcdrac/pomarmcdrac">
+<!-- <a href="https://github.com/pomarmcdrac/pomarmcdrac">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pomarmcdrac&hide=less&title_color=FFFFFF&text_color=dddddd&icon_color=3DA4D5&bg_color=0A0B0F&&hide_border=true)](https://github.com/pomarmcdrac" alt="pomarmcdrac's GitHub Stats Graph"/>
-</a>
+ </a> -->
 <br><br>
-
-
