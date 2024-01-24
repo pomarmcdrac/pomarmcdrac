@@ -54,9 +54,18 @@
 
 ## 📈 Stats
 
-![PomarMcdrac's github stats](https://github-readme-stats.vercel.app/api?username=pomarmcdrac&hide=["issues"]&show_icons=true&line_height=30)
+<a href="https://github.com/pomarmcdrac/pomarmcdrac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomarmcdrac&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-![PomarMcdrac's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pomarmcdrac&theme=buefy&layout=compact&langs_count=10)
+<a href="https://github.com/pomarmcdrac/pomarmcdrac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pomarmcdrac&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="pomarmcdrac's GitHub Stats" />
+</a>
+<br><br>
 
+<a href="https://github.com/pomarmcdrac/pomarmcdrac">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pomarmcdrac&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="pomarmcdrac's GitHub Stats Graph"/>
+</a>
+<br><br>
 
 
