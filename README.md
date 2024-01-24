@@ -10,7 +10,8 @@
 📱   Android Flutter ReactNative
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/pomarmcdrac/pomarmcdrac/assets/99893187/a378936c-e12c-43b8-ba12-c5b71d9c83da"
+ height="200"/>
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me 
@@ -23,9 +24,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)
+[![LinkedIn](https://img.shields.io/badge/-Omar%20Morales-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/omarmorales/)](https://www.linkedin.com/in/omarmorales/)
 [![Gmail Badge](https://img.shields.io/badge/-pomaral@live.com.mx-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pomaral@live.com.mx)](mailto:pomaral@live.com.mx)
-[![Twitter Badge](https://img.shields.io/badge/-@Prathmesh_J29-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prathmesh_J29)](https://twitter.com/Prathmesh_J29)
 
 
 ## 🛠 &nbsp;Tech Stack
