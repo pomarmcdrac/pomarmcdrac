@@ -59,12 +59,12 @@
 </a>
 
 <a href="https://github.com/pomarmcdrac/pomarmcdrac">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pomarmcdrac&count_private=true&show_icons=true&theme=radical&hide_border=true&hide=less&title_color=FFFFFF&text_color=dddddd&icon_color=3DA4D5&bg_color=0A0B0F&&custom_title=Omar%20Morales%20Github%20Stats" alt="pomarmcdrac's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pomarmcdrac&count_private=true&show_icons=true&hide=less&title_color=FFFFFF&text_color=dddddd&icon_color=3DA4D5&bg_color=0A0B0F&&custom_title=Omar%20Morales%20Github%20Stats" alt="pomarmcdrac's GitHub Stats" />
 </a>
 <br><br>
 
 <a href="https://github.com/pomarmcdrac/pomarmcdrac">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pomarmcdrac&theme=radical&hide=less&title_color=FFFFFF&text_color=dddddd&icon_color=3DA4D5&bg_color=0A0B0F&&hide_border=true)](https://github.com/pomarmcdrac" alt="pomarmcdrac's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pomarmcdrac&hide=less&title_color=FFFFFF&text_color=dddddd&icon_color=3DA4D5&bg_color=0A0B0F&&hide_border=true)](https://github.com/pomarmcdrac" alt="pomarmcdrac's GitHub Stats Graph"/>
 </a>
 <br><br>
 
